@@ -1,0 +1,98 @@
+body{
+    background-color:#F8F8FF;
+    font-family: "Proxima Nova"
+}
+.navlist{
+    list-style:none;
+    color: black;
+    
+}
+.navdiv{
+    display: flex;
+    flex-direction:row;
+    justify-content:end;
+   
+}
+.envi{
+    color:#1E90FF;
+    font-weight: 700;
+    font-size:1.4rem;
+}
+.envy{
+    color:#FF69B4;
+    font-size: 1.6rem;
+}
+.automate{
+    font-weight: 700;
+}
+.predi{
+    color: grey;
+    font-size:0.9rem;
+}
+.getbtn{
+    border:2px solid #1E90FF;
+    background-color:#1E90FF;
+    border-radius: 5px;
+    padding: 4px 25px;
+    color:white;
+}
+.getbtn:hover{
+    background-color:transparent;
+    color:#1E90FF;
+    transition:all 0.4s;
+}
+.firstimg{
+    background-color:#F8F8FF;
+}
+.iconbell{
+    font-size:4rem;
+    color:#1E90FF;
+}
+.iconcard{
+    border:1px solid white;
+    padding: 15px;
+}
+.bluesection{
+    background-color:#1E90FF;
+    padding: 20px;
+    color:white;
+    font-size:1.1rem;
+}
+.usericon{
+    font-size:1.6rem;
+}
+hr{
+    width:8%;
+    border-width: 2px;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.signbtn{
+    border:2px solid #1E90FF;
+    color:#1E90FF;
+    background-color:transparent;
+    border-radius:8px; 
+    padding: 4px 25px;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.signbtn:hover{
+    background-color:#1E90FF;
+    color:white;
+    transition: all 0.4s;
+}
+.darkblue{
+    background-color:#87CEFA;
+    padding: 30px;
+}
+.abt{
+    list-style:none;
+    font-size:0.9rem;;
+}
+.copy{
+    font-size:0.8rem;
+    color:gray;
+}
+.techfor{
+    font-size:1.5rem;
+}
